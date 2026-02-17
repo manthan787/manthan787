@@ -13,9 +13,18 @@ Engineer at Stripe. Previously AWS.
 ### 🧪 Other things I've built
 
 🎵 **[Fiddler](https://github.com/fiddler-project/fiddler)** — AI music composer using RNNs and Seq2Seq.
+
 🧠 **[malloc](https://github.com/manthan787/malloc)** — thread-safe memory allocator in C (buddy allocation).
+
 📡 **[Hitch](https://github.com/manthan787/hitch)** — cross-platform AirDrop using Zeroconf.
 
 ### 🌐 Elsewhere
 
-[userunbook.ai](https://userunbook.ai) · [manthan.io](http://manthan.io)
+[LinkedIn](https://www.linkedin.com/in/manthan-io/)
+
+[X](https://x.com/ThatManthan)
+
+[userunbook.ai](https://userunbook.ai)
+
+[manthan.io](http://manthan.io)
+
