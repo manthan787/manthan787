@@ -20,11 +20,5 @@ Engineer at Stripe. Previously AWS.
 
 ### 🌐 Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/manthan-io/)
-
-[X](https://x.com/ThatManthan)
-
-[userunbook.ai](https://userunbook.ai)
-
-[manthan.io](http://manthan.io)
+[LinkedIn](https://www.linkedin.com/in/manthan-io/) | [X](https://x.com/ThatManthan) | [manthan.io](http://manthan.io)
 
