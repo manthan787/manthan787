@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi I'm Manthan 👋
 
-<!--
-**manthan787/manthan787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineer at Stripe. Previously AWS.
 
-Here are some ideas to get you started:
+### 🔨 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[RunbookAI](https://github.com/Runbook-Agent/RunbookAI)** — an open-source AI agent that investigates production incidents. Hypothesis-driven, runbook-aware, approval-gated. Born from too many on-call shifts.
+
+**[context-ledger](https://github.com/manthan787/context-ledger)** — local-first CLI that tracks your AI coding sessions and hands off context between them.
+
+**[Openweavr](https://github.com/openweavr/Openweavr)** — self-hosted workflow automation with AI agents.
+
+### 🧪 Other things I've built
+
+🎵 **[Fiddler](https://github.com/fiddler-project/fiddler)** — AI music composer using RNNs and Seq2Seq.
+🧠 **[malloc](https://github.com/manthan787/malloc)** — thread-safe memory allocator in C (buddy allocation).
+📡 **[Hitch](https://github.com/manthan787/hitch)** — cross-platform AirDrop using Zeroconf.
+
+### 🌐 Elsewhere
+
+[userunbook.ai](https://userunbook.ai) · [manthan.io](http://manthan.io)
