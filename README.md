@@ -6,6 +6,8 @@ Engineer at Stripe. Previously AWS.
 
 🏃‍♂️ **[RunbookAI](https://github.com/Runbook-Agent/RunbookAI)** — an open-source AI agent that investigates production incidents. Hypothesis-driven, runbook-aware, approval-gated. Born from too many on-call shifts.
 
+🎶 **[TapeDeck](https://github.com/manthan787/tapedeck)** — A 4-track studio that fits inside your terminal
+
 📒 **[context-ledger](https://github.com/manthan787/context-ledger)** — local-first CLI that tracks your AI coding sessions and hands off context between them.
 
 🧵 **[Openweavr](https://github.com/openweavr/Openweavr)** — self-hosted workflow automation with AI agents.
